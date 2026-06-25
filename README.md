@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Jatin Tyagi
 
-<!--
-**jatintyagi01/jatintyagi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Aspiring MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Structures & Algorithms
+- React
+- Node.js
+- MongoDB
+
+## Skills
+
+- C++
+- JavaScript
+- HTML
+- CSS
+- React
+- Express
+- MongoDB
+- Git
+- GitHub
+
+## Projects
+
+- Portfolio Website
+- AquaTechTank
+- GST Invoice Generator
+- Library Book Tracker
+- Online Ticketing System
+
+📫 Email:
+jatintyagi2204@gmail.com
