@@ -1,86 +1,100 @@
 <h1 align="center">Hi 👋, I'm Jatin Tyagi</h1>
+<h3 align="center">Full Stack MERN Developer | C++ Programmer | AI Enthusiast</h3>
 
-<h3 align="center">
-A Passionate Full Stack MERN Developer | C++ Programmer | AI Enthusiast
-</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jatintyagi2204/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student at Lovely Professional University
+🎓 B.Tech CSE Student at Lovely Professional University
 
-💻 Passionate about Full Stack Web Development
+💻 Passionate about Full Stack Development
 
-🌱 Currently learning MERN Stack, Data Structures & Algorithms
+🌱 Currently Learning MERN Stack & DSA
 
-🚀 Interested in AI, Backend Development and Open Source
+🚀 Interested in AI, Web Development & Open Source
 
 🎯 Goal: Software Development Engineer (SDE)
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-## 📂 Featured Projects
+# 📊 GitHub Statistics
 
-🚀 AquaTechTank
-
-💳 GST Invoice Generator
-
-🎟 Online Ticketing System
-
-📚 Library Book Tracker
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatintyagi01\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 📈 Currently Working On
+# 🔥 GitHub Streak
 
-✔ MERN Stack
+![GitHub Streak](https://streak-stats.demolab.com?user=jatintyagi01\&theme=tokyonight)
 
-✔ Data Structures & Algorithms
+---
 
-✔ Full Stack Projects
+# 💻 Most Used Languages
 
-✔ Open Source Contributions
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatintyagi01\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jatintyagi01\&theme=algolia)
+
+---
+
+# 🚀 Featured Projects
+
+* 🚀 AquaTechTank
+* 🎟️ Online Ticketing System
+* 💳 GST Invoice Generator
+* 📚 Library Book Tracker
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn
-
-https://www.linkedin.com/in/jatintyagi2204/
+* LinkedIn: https://www.linkedin.com/in/jatintyagi2204/
+* Email: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
