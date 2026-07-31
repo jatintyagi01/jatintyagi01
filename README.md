@@ -2,11 +2,15 @@
 
 # Hi 👋, I'm Jatin Tyagi
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Backend+Developer;C%2B%2B+Programmer;AI+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Developer;C%2B%2B+Programmer;AI+Enthusiast;Future+Software+Engineer" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=jatintyagi01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<a href="https://github.com/jatintyagi01">
+<img src="https://img.shields.io/github/followers/jatintyagi01?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -17,8 +21,9 @@
 - 🎓 B.Tech Computer Science Engineering student at **Lovely Professional University**
 - 💻 Full Stack MERN Developer passionate about building scalable web applications
 - 🚀 Interested in **Backend Development, REST APIs, Artificial Intelligence & Open Source**
-- 🧠 Practicing **Data Structures & Algorithms** in C++
+- 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🏆 Winner of **HackWithVertos 1.0 Hackathon**
+- 🌱 Currently exploring **System Design, Docker & AWS**
 - 🎯 Aspiring **Software Development Engineer (SDE)**
 
 ---
@@ -31,8 +36,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jatintyagi2204@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jatintyagi01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -41,27 +50,29 @@
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css,react,nodejs,express,mongodb,mysql,php,git,github,vscode,postman"/>
+### Programming Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,php"/>
 
----
+### Frontend Development
 
-# 🛠 Skills
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
 
-```text
-💻 Frontend   : React.js • HTML5 • CSS3 • Bootstrap
+### Backend Development
 
-⚙️ Backend    : Node.js • Express.js • REST APIs • JWT
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-🗄️ Database   : MongoDB • MySQL
+### Database
 
-👨‍💻 Languages : C++ • JavaScript • PHP • Java
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-🛠 Tools      : Git • GitHub • VS Code • Postman
-```
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
 
 ---
 
@@ -89,55 +100,162 @@
 
 # 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 💳 **GST Invoice Generator** | Full Stack MERN application with JWT authentication, GST calculation, invoice history, and PDF generation. |
-| 💧 **AquaTechTank** | IoT-based Smart Water Tank Monitoring System with water quality, level, and temperature monitoring. |
-| 🎟️ **Online Ticket Booking System** | Responsive web application for booking movie and event tickets. |
+<table>
+<tr>
+
+<td width="50%">
+
+### 💳 GST Invoice Generator
+
+A Full Stack MERN application for generating professional GST invoices.
+
+#### ✨ Features
+- 🔐 JWT Authentication
+- 📄 PDF Invoice Generation
+- 🧾 Automatic GST Calculation
+- 📂 Invoice History
+- 📱 Responsive Design
+
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 💧 AquaTechTank
+
+IoT-based Smart Water Tank Monitoring System developed during a Hackathon.
+
+#### ✨ Features
+- 💦 Water Level Monitoring
+- 🌡️ Temperature Monitoring
+- 🧪 Water Quality Detection
+- 📊 Smart Dashboard
+- ⚡ Real-Time Monitoring
+
+**Tech Stack**
+
+Node.js • Express.js • IoT
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🎟️ Online Ticket Booking System
+
+A responsive web application for booking movie and event tickets.
+
+#### ✨ Features
+
+- 🎫 Online Ticket Booking
+- 💺 Seat Selection
+- 📱 Responsive User Interface
+- 🎨 Clean and Modern Design
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Winner – **HackWithVertos 1.0 Hackathon**
-- 🚀 Built multiple Full Stack MERN applications
-- 💻 Solved **70+ LeetCode** problems
-- 📚 Strong foundation in **Data Structures & Algorithms**
+- 🥇 **Winner – HackWithVertos 1.0 Hackathon**
+- 🚀 Built **3+ Full Stack Web Applications**
+- 💻 Solving **Data Structures & Algorithms** problems regularly
+- 🌱 Continuously learning modern web technologies
 
 ---
 
 # 🎯 Current Goals
 
-- 🚀 Build production-ready MERN applications
-- 🧠 Solve 500+ DSA problems
-- ☁️ Learn Docker & AWS
-- ⚙️ Master System Design
-- 💼 Secure a Software Development Engineer (SDE) role
+- 🚀 Build production-ready Full Stack MERN applications
+- 📚 Solve **500+ DSA Problems**
+- ☁️ Learn **Docker** and **AWS**
+- ⚙️ Master **System Design**
+- 💼 Secure a **Software Development Engineer (SDE)** role
 
 ---
 
+# 📚 Currently Learning
+
+- ⚛️ Advanced React.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB Optimization
+- ☁️ Cloud Computing
+- 🐳 Docker
+- 🧠 System Design
+- 🤖 Artificial Intelligence
+
+---
+
+# 📈 GitHub Highlights
+
+- 🚀 Full Stack MERN Developer
+- 🧩 Backend Development Enthusiast
+- 💡 REST API Development
+- 📱 Responsive Web Applications
+- 🌍 Open Source Learner
+- 💻 Problem Solver
+
+---
 # 💻 Coding Profiles
 
-<p align="left">
+<p align="center">
 
 <a href="https://leetcode.com/u/jatintyagi9021/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/user/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jatintyagi01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
+# 📫 Contact Me
+
+<p align="center">
+
+📧 **Email:** your-email@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/jatintyagi2204
+
+🐙 **GitHub:** https://github.com/jatintyagi01
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+- 💻 I enjoy building full-stack web applications with the MERN stack.
+- 🧩 I regularly practice Data Structures & Algorithms to improve problem-solving skills.
+- 🌱 I'm always learning new technologies and contributing to personal projects.
+
+---
+
 <div align="center">
 
-## 🤝 Let's Connect & Build Something Amazing
+### ⭐ Thanks for visiting my profile!
 
-⭐ If you like my projects, consider giving them a star.
+If you like my work, consider giving a ⭐ to my repositories and following me on GitHub.
 
-Thanks for visiting my profile! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
