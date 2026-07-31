@@ -1,36 +1,16 @@
 <div align="center">
 
-# Hi 👋, I'm Jatin Tyagi
+# 👋 Hi, I'm Jatin Tyagi
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;C%2B%2B+Programmer;AI+Enthusiast;Open+Source+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;C%2B%2B+Programmer;Open+Source+Learner;AI+Enthusiast;Future+Software+Engineer" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=jatintyagi01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=jatintyagi01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
----
+<br><br>
 
-# 💫 About Me
-
-🎓 B.Tech Computer Science Student at **Lovely Professional University**
-
-💻 Passionate about **Full Stack Web Development**
-
-🌱 Currently Learning **MERN Stack, Data Structures & Algorithms**
-
-🤖 Interested in **Artificial Intelligence, Backend Development & Open Source**
-
-🎯 Goal: **Software Development Engineer (SDE)**
-
-⚡ Fun Fact: *I enjoy building real-world projects that solve practical problems.*
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jatintyagi2204/" target="_blank">
+<a href="https://www.linkedin.com/in/jatintyagi2204/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -38,17 +18,162 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/jatintyagi01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Student at **Lovely Professional University**
+
+💻 Passionate about **Full Stack Web Development**
+
+🚀 Currently building projects using the **MERN Stack**
+
+📚 Solving **Data Structures & Algorithms** regularly
+
+🤖 Interested in **Artificial Intelligence, Backend Development & Open Source**
+
+🎯 Aspiring **Software Development Engineer (SDE)**
+
+⚡ I enjoy building projects that solve real-world problems.
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,php,html,css"/>
+
+</p>
+
+## ⚛️ Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+
+</p>
+
+## ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+## 🗄️ Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Featured Projects
 
-<p align="center">
+## 💳 GST Invoice Generator
 
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode,php,mysql"/>
+> Full Stack GST Invoice Generator with Authentication & PDF Export
 
-</p>
+**Tech Stack**
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+### Features
+
+- GST Calculation
+- PDF Invoice
+- Secure Login
+- Invoice History
+
+---
+
+## 🎟️ Online Ticket Booking System
+
+> Online platform for booking movies and events.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+### Features
+
+- Seat Booking
+- Responsive Design
+- User Friendly Interface
+
+---
+
+## 💧 AquaTechTank
+
+> Smart IoT Water Tank Monitoring System
+
+**Tech Stack**
+
+- Node.js
+- Express
+- IoT Sensors
+
+### Features
+
+- Water Level Monitoring
+- Temperature Detection
+- Water Quality Analysis
+- Dashboard
+
+---
+
+## 📚 Library Book Tracker
+
+Java-based Console Application
+
+Features
+
+- Add Books
+- Delete Books
+- Search Books
+- Manage Inventory
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Position — Echo Club Hackathon
+
+💻 Passionate DSA Learner
+
+🚀 Developed Multiple Full Stack Projects
+
+🌱 Continuously Learning New Technologies
 
 ---
 
@@ -56,9 +181,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatintyagi01&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatintyagi01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatintyagi01&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatintyagi01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -68,50 +193,36 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jatintyagi01&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=jatintyagi01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jatintyagi01&theme=algolia&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatintyagi01&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 AquaTechTank | IoT-based Smart Water Tank Monitoring System using Node.js & Express |
-| 🎟️ Online Ticketing System | Web application for booking theatre and event tickets |
-| 💳 GST Invoice Generator | PHP application for generating GST invoices |
-| 📚 Library Book Tracker | Java console application for managing books |
 
 ---
 
 # 🌱 Currently Learning
 
 - MERN Stack
+- Advanced JavaScript
 - Data Structures & Algorithms
 - REST APIs
-- System Design Basics
+- System Design
 - Artificial Intelligence
 
 ---
 
-# 📈 GitHub Activity Graph
-
-[![Jatin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jatintyagi01&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 # 💻 Coding Profiles
+
+<p align="center">
 
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -121,18 +232,56 @@
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
-# 💡 Quote of the Day
+# 📫 Connect With Me
 
-> **"Code. Learn. Build. Repeat."**
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jatintyagi2204/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jatintyagi01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+### *"First, solve the problem. Then, write the code."*
+
+**— John Johnson**
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🚀 Thanks for Visiting!
 
-If you like my work, consider giving a ⭐ to my repositories.
+⭐ If you like my work, don't forget to star my repositories.
+
+Happy Coding! 💙
 
 </div>
