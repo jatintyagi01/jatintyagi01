@@ -1,161 +1,152 @@
-<div align="center">
+# JATIN TYAGI
+### Full Stack MERN Developer
 
-# Hi 👋, I'm Jatin Tyagi
+📍 Agra, Uttar Pradesh, India  
+📧 jatintyagi2204@gmail.com | 📱 +91-XXXXXXXXXX  
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Backend+Developer;C%2B%2B+Programmer;AI+Enthusiast;Future+Software+Engineer" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=jatintyagi01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/jatintyagi01?style=for-the-badge&logo=github"/>
-</p>
-
-</div>
+🔗 GitHub: https://github.com/jatintyagi01  
+🔗 LinkedIn: https://linkedin.com/in/jatintyagi2204
 
 ---
 
-# 💫 About Me
+## PROFESSIONAL SUMMARY
 
-🎓 B.Tech Computer Science Engineering student at **Lovely Professional University**
-
-💻 Full Stack MERN Developer passionate about building scalable web applications
-
-🚀 Interested in **Backend Development, REST APIs, Artificial Intelligence, and Open Source**
-
-🧠 Practicing **Data Structures & Algorithms** in C++
-
-🏆 Hackathon Winner with experience building real-world software projects
-
-🎯 Aspiring **Software Development Engineer (SDE)**
+Full Stack MERN Developer with experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB. Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, REST APIs, and database management. Passionate about backend development, problem-solving, and developing real-world software solutions.
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jatintyagi2204/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
+## TECHNICAL SKILLS
 
 ### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,php,html,css"/>
-</p>
+- C++
+- JavaScript
+- HTML5
+- CSS3
+- PHP
 
 ### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
-</p>
+- React.js
+- Bootstrap
+- HTML
+- CSS
 
 ### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
 ### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
+- MongoDB
+- MySQL
 
 ### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jatintyagi01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatintyagi01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+### Core CS
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management System
+- REST API Development
 
 ---
 
-# 🔥 GitHub Streak
+# PROJECTS
 
-<p align="center">
+## 💳 GST Invoice Generator
+**MERN Stack**
 
-<img src="https://streak-stats.demolab.com?user=jatintyagi01&theme=tokyonight&hide_border=true"/>
+- Developed a Full Stack GST Invoice Management System.
+- Implemented secure JWT Authentication.
+- Automated GST calculation.
+- Generated downloadable PDF invoices.
+- Stored invoice history using MongoDB.
+- Designed responsive React user interface.
+- Built scalable REST APIs using Express.js.
 
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 💳 **GST Invoice Generator** | Full Stack MERN application with JWT authentication, GST calculation, invoice history, and PDF generation. |
-| 💧 **AquaTechTank** | IoT-based Smart Water Tank Monitoring System with water quality, level, and temperature monitoring. |
-| 🎟️ **Online Ticket Booking System** | Responsive web application for booking movie and event tickets. |
+**Tech:** React.js • Node.js • Express.js • MongoDB • JWT
 
 ---
 
-# 🏆 Achievements
+## 💧 AquaTechTank
+**IoT Smart Water Monitoring System**
 
-- 🥇 Winner – **HackWithVertos 1.0 Hackathon**
-- 🚀 Developed **AquaTechTank**, an IoT Smart Water Monitoring System
-- 💻 Built multiple Full Stack Web Applications
-- 📚 Strong foundation in Data Structures & Algorithms
-
----
-
-# 🌱 Currently Learning
-
-- 🚀 Advanced MERN Stack
-- 🧠 Data Structures & Algorithms
-- ⚙️ System Design
-- 🐳 Docker
-- ☁️ Cloud Computing
+- Built an IoT-enabled smart water tank monitoring solution.
+- Monitored water quality, water level and temperature.
+- Developed a dashboard for real-time monitoring.
+- Winner project at HackWithVertos 1.0.
 
 ---
 
-# 💻 Coding Profiles
+## 🎟 Online Ticket Booking System
 
-<p align="left">
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
+- Responsive web application for booking theatre and event tickets.
+- User-friendly interface.
+- Dynamic seat booking.
+- Responsive design.
 
 ---
 
-# 💡 Quote
+# EXPERIENCE
 
-> **"Code. Learn. Build. Repeat."**
+### Full Stack Development
+
+- Built responsive frontend applications using React.
+- Developed REST APIs using Express.js.
+- Integrated MongoDB database.
+- Implemented authentication and authorization.
+- Worked with Git & GitHub version control.
 
 ---
 
-<div align="center">
+# ACHIEVEMENTS
 
-### ⭐ Thanks for visiting my profile!
+🏆 Winner — HackWithVertos 1.0 Hackathon
 
-If you like my work, consider giving a ⭐ to my repositories.
+🏅 Built AquaTechTank — IoT-based Smart Water Monitoring System
 
-</div>
+💻 Built multiple Full Stack Web Applications
+
+---
+
+# EDUCATION
+
+### Lovely Professional University
+**Bachelor of Technology – Computer Science & Engineering**
+
+CGPA: **7.14**
+
+---
+
+### Mahi International School
+
+Senior Secondary
+
+Percentage: **81%**
+
+---
+
+# CODING PROFILES
+
+GitHub:
+https://github.com/jatintyagi01
+
+LeetCode:
+https://leetcode.com/u/jatintyagi9021/
+
+LinkedIn:
+https://linkedin.com/in/jatintyagi2204
+
+---
+
+# INTERESTS
+
+- Full Stack Development
+- Backend Engineering
+- Artificial Intelligence
+- Open Source
+- Problem Solving
+- Data Structures & Algorithms
