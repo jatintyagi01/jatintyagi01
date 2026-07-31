@@ -16,9 +16,9 @@
 
 - 🎓 B.Tech Computer Science Engineering student at **Lovely Professional University**
 - 💻 Full Stack MERN Developer passionate about building scalable web applications
-- 🚀 Interested in **Backend Development, REST APIs, Artificial Intelligence, and Open Source**
+- 🚀 Interested in **Backend Development, REST APIs, Artificial Intelligence & Open Source**
 - 🧠 Practicing **Data Structures & Algorithms** in C++
-- 🏆 Hackathon Winner with experience building real-world software projects
+- 🏆 Winner of **HackWithVertos 1.0 Hackathon**
 - 🎯 Aspiring **Software Development Engineer (SDE)**
 
 ---
@@ -27,12 +27,12 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/jatintyagi2204/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jatintyagi2204">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -43,9 +43,25 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css,react,nodejs,express,mongodb,mysql,php,git,github,vscode,postman"/>
 
 </p>
+
+---
+
+# 🛠 Skills
+
+```text
+💻 Frontend   : React.js • HTML5 • CSS3 • Bootstrap
+
+⚙️ Backend    : Node.js • Express.js • REST APIs • JWT
+
+🗄️ Database   : MongoDB • MySQL
+
+👨‍💻 Languages : C++ • JavaScript • PHP • Java
+
+🛠 Tools      : Git • GitHub • VS Code • Postman
+```
 
 ---
 
@@ -53,9 +69,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatintyagi01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jatintyagi01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatintyagi01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatintyagi01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -71,16 +87,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jatintyagi01&theme=algolia&row=1&column=6&no-frame=true"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 | 🚀 Project | Description |
@@ -91,13 +97,22 @@
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 Achievements
 
-- 🚀 Advanced MERN Stack
-- 🧠 Data Structures & Algorithms
-- ⚙️ REST APIs
-- 🏗️ System Design Basics
-- 🤖 Artificial Intelligence
+- 🥇 Winner – **HackWithVertos 1.0 Hackathon**
+- 🚀 Built multiple Full Stack MERN applications
+- 💻 Solved **70+ LeetCode** problems
+- 📚 Strong foundation in **Data Structures & Algorithms**
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build production-ready MERN applications
+- 🧠 Solve 500+ DSA problems
+- ☁️ Learn Docker & AWS
+- ⚙️ Master System Design
+- 💼 Secure a Software Development Engineer (SDE) role
 
 ---
 
@@ -106,27 +121,23 @@
 <p align="left">
 
 <a href="https://leetcode.com/u/jatintyagi9021/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote of the Day
-
-> **"Code. Learn. Build. Repeat."**
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect & Build Something Amazing
 
-If you like my work, consider giving a ⭐ to my repositories.
+⭐ If you like my projects, consider giving them a star.
+
+Thanks for visiting my profile! 🚀
 
 </div>
